@@ -7,4 +7,6 @@
     <string name="buttonFavoriteAddText">Добавить</string>
     <string name="buttonFavoriteAddedText">Добавлено</string>
     <string name="buttonLocationText">Посмотреть</string>
+    <string name="tabLayoutTextFavorite">Избранное</string>
+    <string name="tabLayoutTextAll">Весь список</string>
 </resources>

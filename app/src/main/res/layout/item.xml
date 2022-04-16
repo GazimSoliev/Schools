@@ -43,7 +43,7 @@
 
             <TextView
                 android:id="@+id/eduTitle"
-                android:layout_marginBottom="4dp"
+                android:layout_marginBottom="8dp"
                 android:textAllCaps="false"
                 android:textSize="20sp"
                 android:textStyle="bold"
@@ -52,7 +52,6 @@
 
             <TextView
                 android:id="@+id/eduDescription"
-                android:layout_marginTop="4dp"
                 tools:text="Описание какое-нибудь, или адрес" />
 
         </TableLayout>
@@ -72,7 +71,7 @@
                 tools:ignore="RtlHardcoded" />
 
             <Button
-                android:id="@+id/buttonLocation"
+                android:id="@+id/buttonLookAtMap"
                 style="@style/MyFilledButtonIcon"
                 android:layout_height="match_parent"
                 android:drawableLeft="@drawable/ic_baseline_map_24"

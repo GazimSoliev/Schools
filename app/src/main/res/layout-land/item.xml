@@ -65,7 +65,7 @@
                     tools:ignore="RtlHardcoded" />
 
                 <Button
-                    android:id="@+id/buttonLocation"
+                    android:id="@+id/buttonLookAtMap"
                     style="@style/MyFilledButtonIcon"
                     android:layout_height="match_parent"
                     android:drawableLeft="@drawable/ic_baseline_map_24"

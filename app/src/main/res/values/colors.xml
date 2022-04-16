@@ -7,8 +7,6 @@
     <color name="backgroundFirst">#E3F2FD</color>
     <color name="backgroundSecond">#BBDEFB</color>
     <color name="backgroundThird">#0D47A1</color>
-    <color name="buttonLightTextColor">#1976D2</color>
     <color name="strokeColor">#4D6A8A</color>
-    <color name="light_gold">#FFF3E0</color>
     <color name="gold">#FBC02D</color>
 </resources>
