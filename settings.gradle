@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url = uri("https://dl.bintray.com/kotlin/kotlin-eap") }
+    }
+    resolutionStrategy {
+        eachPlugin {
+            if (requested.id.id == "koin") {
+                useModule("io.insert-koin:koin-gradle-plugin:3.2.0-beta-1")
+            }
+        }
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Schools"
+include ':app'

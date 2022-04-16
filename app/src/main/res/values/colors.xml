@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#3F3F3F</color>
+    <color name="background">#FFFFFF</color>
+    <color name="textColorHint">@color/textColor</color>
+    <color name="invisible">@color/background</color>
+    <color name="backgroundFirst">#E3F2FD</color>
+    <color name="backgroundSecond">#BBDEFB</color>
+    <color name="backgroundThird">#0D47A1</color>
+    <color name="buttonLightTextColor">#1976D2</color>
+    <color name="strokeColor">#4D6A8A</color>
+    <color name="light_gold">#FFF3E0</color>
+    <color name="gold">#FBC02D</color>
+</resources>

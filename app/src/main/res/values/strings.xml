@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Школы Магнитогорска</string>
+    <string name="content_description_photo_school">Фото школы</string>
+    <string name="buttonGoToTheListText">Перейти к списку</string>
+    <string name="etSearchTextHint">Поиск</string>
+    <string name="tvEmptyListText">Список пуст</string>
+    <string name="buttonFavoriteAddText">Добавить</string>
+    <string name="buttonFavoriteAddedText">Добавлено</string>
+    <string name="buttonLocationText">Посмотреть</string>
+</resources>

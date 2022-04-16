@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable-v24/ic_baseline_clear_24.xml" value="0.1" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable-v24/ic_baseline_star_border_24.xml" value="0.1" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable-v24/ic_baseline_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2295" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/cursor.xml" value="0.259" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/favorite_button.xml" value="0.148" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2375" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.2595" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1085" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.2405" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_baseline_star_test.xml" value="0.2295" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2205" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/drawable/ic_schoolicon.xml" value="0.1645" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout-land/item.xml" value="0.22989439480097482" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/fragment_favorite_institution_list.xml" value="0.2" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/fragment_home.xml" value="0.493891797556719" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/fragment_institution_list.xml" value="0.176" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/item.xml" value="0.128" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/item0.xml" value="0.2" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1645" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1645" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/mipmap-anydpi-v26/ic_launcher_school.xml" value="0.1645" />
+        <entry key="..\:/Projects/Schools/app/src/main/res/mipmap-anydpi-v26/ic_launcher_school_round.xml" value="0.1645" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
