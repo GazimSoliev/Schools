@@ -30,7 +30,7 @@
     <style name="MyTableLayout" />
 
     <style name="MyTextInputLayout">
-        <item name="boxBackgroundColor">@color/material_dynamic_neutral95</item>
+        <item name="boxBackgroundColor">@color/material_dynamic_neutral_variant95</item>
         <item name="startIconTint">@color/material_dynamic_neutral20</item>
     </style>
 
