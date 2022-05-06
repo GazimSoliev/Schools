@@ -1,10 +1,10 @@
 package com.schools.magnitogorsk.presentation.features.institution.list
 
-import com.schools.magnitogorsk.domain.repositories.IInstitutionSearchRequestRepository
-import com.schools.magnitogorsk.domain.usecases.IAddFavoriteInstitutionsUseCase
-import com.schools.magnitogorsk.domain.usecases.IGetAllInstitutionsUseCase
-import com.schools.magnitogorsk.domain.usecases.IGetFilteredAllInstitutionsUseCase
-import com.schools.magnitogorsk.domain.usecases.IRemoveFavoriteInstitutionsUseCase
+import com.gazim.domain.repositories.IInstitutionSearchRequestRepository
+import com.gazim.domain.usecases.IAddFavoriteInstitutionsUseCase
+import com.gazim.domain.usecases.IGetAllInstitutionsUseCase
+import com.gazim.domain.usecases.IGetFilteredAllInstitutionsUseCase
+import com.gazim.domain.usecases.IRemoveFavoriteInstitutionsUseCase
 import com.schools.magnitogorsk.presentation.common.BaseViewModel
 import com.schools.magnitogorsk.presentation.features.institution.Institution
 import kotlinx.coroutines.Dispatchers

@@ -1,9 +1,9 @@
 package com.schools.magnitogorsk.di
 
-import com.schools.magnitogorsk.data.repositories.InstitutionRepositoryImpl
-import com.schools.magnitogorsk.data.repositories.InstitutionSearchRequestRepositoryImpl
-import com.schools.magnitogorsk.domain.repositories.IInstitutionRepository
-import com.schools.magnitogorsk.domain.repositories.IInstitutionSearchRequestRepository
+import com.gazim.data.repositories.InstitutionRepositoryImpl
+import com.gazim.data.repositories.InstitutionSearchRequestRepositoryImpl
+import com.gazim.domain.repositories.IInstitutionRepository
+import com.gazim.domain.repositories.IInstitutionSearchRequestRepository
 import org.koin.dsl.module
 
 

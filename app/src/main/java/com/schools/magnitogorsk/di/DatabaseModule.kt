@@ -3,10 +3,10 @@ package com.schools.magnitogorsk.di
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.schools.magnitogorsk.data.database.InstitutionsDatabase
-import com.schools.magnitogorsk.data.database.dao.InstitutionsDao
-import com.schools.magnitogorsk.data.datasource.DataSourceFromAssertImpl
-import com.schools.magnitogorsk.data.datasource.IDataSourceFromAssert
+import com.gazim.data.database.InstitutionsDatabase
+import com.gazim.data.database.dao.InstitutionsDao
+import com.gazim.data.datasource.DataSourceFromAssertImpl
+import com.gazim.data.datasource.IDataSourceFromAssert
 import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
 import java.util.concurrent.Executors

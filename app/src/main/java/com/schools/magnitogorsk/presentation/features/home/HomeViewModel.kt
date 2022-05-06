@@ -1,6 +1,6 @@
 package com.schools.magnitogorsk.presentation.features.home
 
-import com.schools.magnitogorsk.domain.repositories.IInstitutionSearchRequestRepository
+import com.gazim.domain.repositories.IInstitutionSearchRequestRepository
 import com.schools.magnitogorsk.presentation.common.BaseViewModel
 import kotlinx.coroutines.Dispatchers
 import org.orbitmvi.orbit.Container

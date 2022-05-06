@@ -1,6 +1,6 @@
 package com.schools.magnitogorsk.presentation.features.institution
 
-import com.schools.magnitogorsk.domain.models.InstitutionModel
+import com.gazim.domain.models.InstitutionModel
 
 
 data class Institution(

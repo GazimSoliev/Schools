@@ -1,6 +1,6 @@
 package com.schools.magnitogorsk.di
 
-import com.schools.magnitogorsk.domain.usecases.*
+import com.gazim.domain.usecases.*
 import org.koin.dsl.module
 
 

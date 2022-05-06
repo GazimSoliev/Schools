@@ -31,7 +31,7 @@ class HomeFragment :
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding.etSearch.addTextChangedListener { editable ->
-            editable?.let { viewModel.handleAction(HomeAction.OnSearchRequest(it.toString())) }
+            editable?.let { sendAction(HomeAction.OnSearchRequest(it.toString())) }
         }
         binding.viewPager.adapter = HomeViewPagerAdapter(requireActivity())
         TabLayoutMediator(binding.tabLayout, binding.viewPager) { tab, pos ->
